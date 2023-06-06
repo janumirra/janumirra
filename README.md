@@ -1,10 +1,10 @@
 - 👋 Hey there, I’m @Janaki
 - 👀 I’m interested in Python, ML, Data Science
 - 🎓 I've completed a certification program on Master Data Science from  IIT-M-GUVI
-- 🌱 I've recently completed an internship at IIT-Ropar and Currently I am an AI intern at "Studiovity".
+- 🌱 I was a contract Analyst at BHUMIO.
+- 🌱 I've completed an internship at IIT-Ropar(Research Intern) and  another one at "Studiovity" (AI intern).
 - 💞️ I’m looking to collaborate on ML and Data science Projects
 - 📫 How to reach me : janumirra@gmail.com
-- 😄 Pronouns: She/Her/Hers
 - 💭 You can catch me doing🎨Illustration! 🧬 🧪Science! ✍️Blogging! 🍿 Binge watching series!
 
 
